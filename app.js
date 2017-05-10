@@ -10,7 +10,6 @@ var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 
 //runs env script to define
-var env = require('./env');
 require('./init').init(mongoose);
 
 
