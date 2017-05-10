@@ -14,9 +14,7 @@ Installing and using the web app
 
 5) You can also run grunt default to automatically test this application and if no error is raised ,
     it will start the web server as well
+    
+6) To run app without grunt , you can start the app with npm start or manually start by typing node app.js
 
-6) The code is deployed on https://crudtask.herokuapp.com/
-
-7) To run app without grunt , you can start the app with npm start or manually start by typing node app.js
-
-8) A much richer documenation of the code is available on http://crud.kissr.com/index.html.
+7) A much richer documenation of the code is available on http://crud.kissr.com/index.html.
